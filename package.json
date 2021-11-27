@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "node main.js"
+    "start": "node src/main.js"
   },
   "devDependencies": {
     "@types/node": "16.11.10",
